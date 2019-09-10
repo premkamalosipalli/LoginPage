@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1 align="center">LOGIN WITH CREDENTIALS</h1>
-	<form action="Loginservlet" method="post">
+	<form action="jspbeans.jsp" method="post">
 		<div align="center">
 			<table>
 			<tr>
